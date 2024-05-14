@@ -1,0 +1,8 @@
+node_modules
+app/android/ApiDemos-debug.apk
+test/specs/android-native.js
+test/specs/android-findElements.js
+test/specs/android/test-withoutPOO.js
+wdio-appium.log
+
+
