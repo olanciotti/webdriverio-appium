@@ -1,4 +1,3 @@
-node_modules
 app/android/ApiDemos-debug.apk
 test/specs/android-native.js
 test/specs/android-findElements.js
