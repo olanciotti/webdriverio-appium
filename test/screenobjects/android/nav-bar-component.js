@@ -6,6 +6,11 @@ class NavBarComponent{
     get trashCanTxt(){
         return $('//*[@text="Trash Can"]');
     }
+
+    get archiveTxt(){
+        return $('//*[@text="Archive"]');
+    }
+
 }
 
 module.exports = new NavBarComponent();

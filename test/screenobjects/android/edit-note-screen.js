@@ -6,6 +6,10 @@ class EditNoteScreen{
     get deleteTxt(){
         return $('//*[@text="Delete"]');
     }
+
+    get archiveTxt(){
+        return $('//*[@text="Archive"]');
+    }
 }
 
 module.exports = new EditNoteScreen();
